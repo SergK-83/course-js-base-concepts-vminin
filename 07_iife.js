@@ -1,3 +1,4 @@
+
 // Immediate Invoked Function Expression (iife) - это некоторый Function Expression, который моментально выпольняется.
 
 let result = [];
